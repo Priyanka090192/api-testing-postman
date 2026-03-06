@@ -1,0 +1,6 @@
+GET /users API
+
+Expected:
+Status 200
+Valid JSON response
+Correct schema
